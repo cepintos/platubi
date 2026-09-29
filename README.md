@@ -2,7 +2,7 @@
 
 My goal was to build something useful for people living in latin america that own cryptocurrencies.
 
- - I built this web app from a design made by me. [Link](https://www.figma.com/file/sOsL9kBkhNnoFDfTcpyVAg/Platubi?node-id=801%3A973)
+ - I built this web app from a design made by me.
  - I worked in a goal-oriented way with a Trello board [here](https://trello.com/b/8wV1Vst7/platubi-development).
  - I used dev and production branches for better control over the project.
 
